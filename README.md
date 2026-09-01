@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Created by Pragati Pawar!.
+Created by Pragati Pawar.
